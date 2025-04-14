@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2433662\\Documents\\Code\\Prog1\\lab_equipe\\lab_equipe\\lab_equipe.csproj": {}
+    "C:\\Users\\2433662\\Documents\\Code\\Prog2\\laboratoire_equipe1\\lab_equipe\\lab_equipe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2433662\\Documents\\Code\\Prog1\\lab_equipe\\lab_equipe\\lab_equipe.csproj": {
+    "C:\\Users\\2433662\\Documents\\Code\\Prog2\\laboratoire_equipe1\\lab_equipe\\lab_equipe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2433662\\Documents\\Code\\Prog1\\lab_equipe\\lab_equipe\\lab_equipe.csproj",
+        "projectUniqueName": "C:\\Users\\2433662\\Documents\\Code\\Prog2\\laboratoire_equipe1\\lab_equipe\\lab_equipe.csproj",
         "projectName": "lab_equipe",
-        "projectPath": "C:\\Users\\2433662\\Documents\\Code\\Prog1\\lab_equipe\\lab_equipe\\lab_equipe.csproj",
+        "projectPath": "C:\\Users\\2433662\\Documents\\Code\\Prog2\\laboratoire_equipe1\\lab_equipe\\lab_equipe.csproj",
         "packagesPath": "C:\\Users\\2433662\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2433662\\Documents\\Code\\Prog1\\lab_equipe\\lab_equipe\\obj\\",
+        "outputPath": "C:\\Users\\2433662\\Documents\\Code\\Prog2\\laboratoire_equipe1\\lab_equipe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
